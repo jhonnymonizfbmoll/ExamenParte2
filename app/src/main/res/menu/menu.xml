@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:title="moon"
+        android:icon="@drawable/ic_moon"
+        android:id="@+id/moon"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:title="smile"
+        android:icon="@drawable/ic_smile"
+        android:id="@+id/smile"
+        app:showAsAction="ifRoom"/>
+</menu>
